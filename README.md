@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ipranjal" alt="ipranjal" /></a> </p>
 
-- 🔭 I’m currently working on [Scrawler PHP](GitHub.com/scrawler-php) & Eyetalk Project
+- 🔭 I’m currently working on [Scrawler Labs](GitHub.com/scrawler-labs) & Eyetalk Project
 
 
 
