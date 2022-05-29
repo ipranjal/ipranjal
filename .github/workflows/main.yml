@@ -26,8 +26,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         with:
-          commit_message: Update generated README
+          commit_message: Update README
           branch: master
-          commit_user_name: readme-scribe 🤖
+          commit_user_name: pranjals bot 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
