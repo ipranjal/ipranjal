@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranjal Pandey</h1>
 <h3 align="center">I am an Open Source enthusiast, Developer and inspiring computer scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ipranjal&label=Profile%20views&style=flat" alt="ipranjal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ipranjal&label=Profile%20views&style=for-the-badge" alt="ipranjal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ipranjal&theme=darkhub" alt="ipranjal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ipranjal&theme=darkhub" alt="ipranjal" width="100%"/></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_pranjalpandey_" target="blank"><img src="https://img.shields.io/twitter/follow/_pranjalpandey_?logo=twitter&style=for-the-badge" alt="_pranjalpandey_" /></a> </p>
 
@@ -58,6 +58,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ipranjal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ipranjal" /></a></p><br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ipranjal&show_icons=true&theme=dark&locale=en" alt="ipranjal" /></p><br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ipranjal&theme=dark" alt="ipranjal" /></p>
+<h3 align="left">Some Stats:</h3>
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ipranjal&show_icons=true&theme=dark&locale=en" alt="ipranjal" width="48%"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ipranjal&theme=dark" alt="ipranjal" width="48%"/>
+</div>
