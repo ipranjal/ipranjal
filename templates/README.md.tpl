@@ -8,8 +8,8 @@
 <p align="left"> <a href="https://twitter.com/_pranjalpandey_" target="blank"><img src="https://img.shields.io/twitter/follow/_pranjalpandey_?logo=twitter&style=for-the-badge" alt="_pranjalpandey_" /></a> </p>
 
 - 🔭 I’m Founder of [Corpusvision Technologies](https://www.corpusvision.com)
-- 🔭 I’m currently working on [Scrawler framework](https://github.com/scrawler-labs/framework), [Coro](ordercoro.com) & Eyetalk Projects
-- 🌱 I’m currently learning **Flutter , ML and Blockchain**
+- 🔭 I’m currently working on [Scrawler framework](https://github.com/scrawler-labs/framework), [Coro](ordercoro.com) & Nextus
+- 🌱 I’m currently learning **AI , ML and Blockchain**
 - 👯 I’m looking to collaborate on [Scrawler framework](https://github.com/scrawler-labs/framework)
 - 💬 Ask me about **Flutter, PHP, Physics, Philosophy or Algorithms**
 - 📫 How to reach me **itspranjalpandey@gmail.com**
