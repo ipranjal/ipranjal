@@ -18,9 +18,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (today)
 - [scrawler-labs/core](https://github.com/scrawler-labs/core) -  (today)
 - [scrawler-labs/framework](https://github.com/scrawler-labs/framework) - Scrawler Framework Core (today)
-- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) - A low code, Zero Configuration, NoSQL like ORM  (today)
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) - An Fully Automatic RESTful PHP Router (today)
 - [scrawler-labs/scrawler](https://github.com/scrawler-labs/scrawler) - RAD and Modular PHP Framework (today)
 - [scrawler-labs/swoole-cache](https://github.com/scrawler-labs/swoole-cache) - A High speed , PSR-16 compatible cache library based on swoole-tables (today)
@@ -32,7 +32,7 @@
 ### 🔭 Latest releases I've contributed to
 
 - [scrawler-labs/swoole-cache](https://github.com/scrawler-labs/swoole-cache) ([v1.01](https://github.com/scrawler-labs/swoole-cache/releases/tag/v1.01), today) - A High speed , PSR-16 compatible cache library based on swoole-tables
-- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v1.1.0](https://github.com/scrawler-labs/arca-orm/releases/tag/v1.1.0), today) - A low code, Zero Configuration, NoSQL like ORM 
+- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v1.1.0](https://github.com/scrawler-labs/arca-orm/releases/tag/v1.1.0), today) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
 - [scrawler-labs/scrawler](https://github.com/scrawler-labs/scrawler) ([V2.4.1](https://github.com/scrawler-labs/scrawler/releases/tag/V2.4.1), 2 months ago) - RAD and Modular PHP Framework
 - [scrawler-labs/framework](https://github.com/scrawler-labs/framework) ([v2.4.0](https://github.com/scrawler-labs/framework/releases/tag/v2.4.0), 3 months ago) - Scrawler Framework Core
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) ([V3.0.4](https://github.com/scrawler-labs/router/releases/tag/V3.0.4), 3 months ago) - An Fully Automatic RESTful PHP Router
