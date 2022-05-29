@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranjal Pandey</h1>
-<h3 align="center">A developer/computer scientist from India</h3>
+<h3 align="center">I am an Open Source enthusiast, Developer and inspiring computer scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipranjal&label=Profile%20views&style=flat" alt="ipranjal" /> </p>
 
@@ -14,7 +14,6 @@
 - 💬 Ask me about **Flutter, PHP, Physics, Philosophy or Algorithms**
 - 📫 How to reach me **itspranjalpandey@gmail.com**
 - 📄 Know about my experiences [View Resume](https://docs.google.com/document/d/1-pBXTun2aywsjwFxPoTpFx__DeC2PMVOwd_Iqf08OrA/edit?usp=sharing)
-
 - ⚡ Fun fact **I love listening to documentaries while I code**
 
 ### 👷 Check out what I'm currently working on
