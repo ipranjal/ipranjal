@@ -11,6 +11,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@master
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
 
       - uses: muesli/readme-scribe@master
         env:
@@ -23,7 +26,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           commit_message: Update generated README
           branch: master
           commit_user_name: readme-scribe 🤖
