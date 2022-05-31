@@ -37,7 +37,6 @@
 - [scrawler-labs/framework](https://github.com/scrawler-labs/framework) ([v2.4.0](https://github.com/scrawler-labs/framework/releases/tag/v2.4.0), 3 months ago) - Scrawler Framework Core
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) ([V3.0.4](https://github.com/scrawler-labs/router/releases/tag/V3.0.4), 3 months ago) - An Fully Automatic RESTful PHP Router
 - [scrawler-labs/swoole-postgresql-doctrine](https://github.com/scrawler-labs/swoole-postgresql-doctrine) ([1.1.1](https://github.com/scrawler-labs/swoole-postgresql-doctrine/releases/tag/1.1.1), 6 months ago) - A Doctrine DBAL Driver implementation on top of Swoole Coroutine PostgreSQL extension
-- [scrawler-archive/php2js](https://github.com/scrawler-archive/php2js) ([v0.3.0](https://github.com/scrawler-archive/php2js/releases/tag/v0.3.0), 1 year ago) - convert php code to javascript code that run on browser
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
