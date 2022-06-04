@@ -31,11 +31,11 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [scrawler-labs/router](https://github.com/scrawler-labs/router) ([v3.1.0](https://github.com/scrawler-labs/router/releases/tag/v3.1.0), today) - An Fully Automatic RESTful PHP Router
 - [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v1.1.1](https://github.com/scrawler-labs/arca-orm/releases/tag/v1.1.1), 6 days ago) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
 - [scrawler-labs/swoole-cache](https://github.com/scrawler-labs/swoole-cache) ([v1.01](https://github.com/scrawler-labs/swoole-cache/releases/tag/v1.01), 6 days ago) - A High speed , PSR-16 compatible cache library based on swoole-tables
 - [scrawler-labs/scrawler](https://github.com/scrawler-labs/scrawler) ([V2.4.1](https://github.com/scrawler-labs/scrawler/releases/tag/V2.4.1), 2 months ago) - RAD and Modular PHP Framework
 - [scrawler-labs/framework](https://github.com/scrawler-labs/framework) ([v2.4.0](https://github.com/scrawler-labs/framework/releases/tag/v2.4.0), 3 months ago) - Scrawler Framework Core
-- [scrawler-labs/router](https://github.com/scrawler-labs/router) ([V3.0.4](https://github.com/scrawler-labs/router/releases/tag/V3.0.4), 3 months ago) - An Fully Automatic RESTful PHP Router
 - [scrawler-labs/swoole-postgresql-doctrine](https://github.com/scrawler-labs/swoole-postgresql-doctrine) ([1.1.1](https://github.com/scrawler-labs/swoole-postgresql-doctrine/releases/tag/1.1.1), 6 months ago) - A Doctrine DBAL Driver implementation on top of Swoole Coroutine PostgreSQL extension
 
 <h3 align="left">Connect with me:</h3>
