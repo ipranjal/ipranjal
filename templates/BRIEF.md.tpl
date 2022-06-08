@@ -8,5 +8,5 @@
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-For more details visit (www.github.com/ipranjal)[www.github.com/ipranjal]
+For more details visit [www.github.com/ipranjal](www.github.com/ipranjal)
 
