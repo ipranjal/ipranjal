@@ -46,7 +46,5 @@
 <p><a href="https://www.buymeacoffee.com/ipranjal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ipranjal" /></a></p><br><br><br>
 
 <h3 align="left">My Github Stats:</h3>
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ipranjal&show_icons=true&theme=dark&locale=en" alt="ipranjal" width="39%"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ipranjal&theme=dark" alt="ipranjal" width="39%"/>
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ipranjal&show_icons=true&theme=dark&locale=en" alt="ipranjal"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ipranjal&theme=dark" alt="ipranjal"/>
