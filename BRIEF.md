@@ -20,7 +20,5 @@
 - [scrawler-labs/framework](https://github.com/scrawler-labs/framework) ([v2.4.0](https://github.com/scrawler-labs/framework/releases/tag/v2.4.0), 3 months ago) - Scrawler Framework Core
 - [scrawler-labs/swoole-postgresql-doctrine](https://github.com/scrawler-labs/swoole-postgresql-doctrine) ([1.1.1](https://github.com/scrawler-labs/swoole-postgresql-doctrine/releases/tag/1.1.1), 7 months ago) - A Doctrine DBAL Driver implementation on top of Swoole Coroutine PostgreSQL extension
 
-<h3 align="left">My Github Stats:</h3>
+For more details visit (www.github.com/ipranjal)[www.github.com/ipranjal]
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ipranjal&show_icons=true&theme=dark&locale=en" alt="ipranjal" width="39%"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ipranjal&theme=dark" alt="ipranjal" width="39%"/>
