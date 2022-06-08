@@ -21,7 +21,6 @@
 - [scrawler-labs/swoole-postgresql-doctrine](https://github.com/scrawler-labs/swoole-postgresql-doctrine) ([1.1.1](https://github.com/scrawler-labs/swoole-postgresql-doctrine/releases/tag/1.1.1), 7 months ago) - A Doctrine DBAL Driver implementation on top of Swoole Coroutine PostgreSQL extension
 
 <h3 align="left">My Github Stats:</h3>
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ipranjal&show_icons=true&theme=dark&locale=en" alt="ipranjal" width="49%"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ipranjal&theme=dark" alt="ipranjal" width="49%"/>
-</div>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ipranjal&show_icons=true&theme=dark&locale=en" alt="ipranjal" width="39%"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ipranjal&theme=dark" alt="ipranjal" width="39%"/>
