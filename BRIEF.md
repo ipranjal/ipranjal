@@ -1,8 +1,8 @@
 ### 👷 Check out what I'm currently working on
 
-- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (1 day ago)
-- [scrawler-labs/router](https://github.com/scrawler-labs/router) - An Fully Automatic RESTful PHP Router (1 day ago)
-- [scrawler-labs/component-docs](https://github.com/scrawler-labs/component-docs) -  (1 day ago)
+- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (2 days ago)
+- [scrawler-labs/router](https://github.com/scrawler-labs/router) - An Fully Automatic RESTful PHP Router (2 days ago)
+- [scrawler-labs/component-docs](https://github.com/scrawler-labs/component-docs) -  (2 days ago)
 - [scrawler-labs/.github](https://github.com/scrawler-labs/.github) -  (8 months ago)
 - [scrawler-labs/framework](https://github.com/scrawler-labs/framework) - Scrawler Framework Core (8 months ago)
 - [scrawler-labs/swoole-postgresql-doctrine](https://github.com/scrawler-labs/swoole-postgresql-doctrine) - A Doctrine DBAL Driver implementation on top of Swoole Coroutine PostgreSQL extension (10 months ago)
@@ -11,8 +11,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [scrawler-labs/router](https://github.com/scrawler-labs/router) ([v3.3.0](https://github.com/scrawler-labs/router/releases/tag/v3.3.0), 1 day ago) - An Fully Automatic RESTful PHP Router
-- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v2.1.0](https://github.com/scrawler-labs/arca-orm/releases/tag/v2.1.0), 1 week ago) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
+- [scrawler-labs/router](https://github.com/scrawler-labs/router) ([v3.3.0](https://github.com/scrawler-labs/router/releases/tag/v3.3.0), 2 days ago) - An Fully Automatic RESTful PHP Router
+- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v2.1.0](https://github.com/scrawler-labs/arca-orm/releases/tag/v2.1.0), 2 weeks ago) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
 - [scrawler-labs/framework](https://github.com/scrawler-labs/framework) ([v2.4.2](https://github.com/scrawler-labs/framework/releases/tag/v2.4.2), 8 months ago) - Scrawler Framework Core
 - [scrawler-labs/swoole-cache](https://github.com/scrawler-labs/swoole-cache) ([v1.01](https://github.com/scrawler-labs/swoole-cache/releases/tag/v1.01), 10 months ago) - A High speed , PSR-16 compatible cache library based on swoole-tables
 - [scrawler-labs/scrawler](https://github.com/scrawler-labs/scrawler) ([V2.4.1](https://github.com/scrawler-labs/scrawler/releases/tag/V2.4.1), 1 year ago) - RAD and Modular PHP Framework
