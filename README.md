@@ -23,7 +23,7 @@
 - [scrawler-labs/component-docs](https://github.com/scrawler-labs/component-docs) -  (1 month ago)
 - [scrawler-labs/.github](https://github.com/scrawler-labs/.github) -  (10 months ago)
 - [scrawler-labs/framework](https://github.com/scrawler-labs/framework) - Scrawler Framework Core (10 months ago)
-- [scrawler-labs/swoole-postgresql-doctrine](https://github.com/scrawler-labs/swoole-postgresql-doctrine) - A Doctrine DBAL Driver implementation on top of Swoole Coroutine PostgreSQL extension (11 months ago)
+- [scrawler-labs/swoole-postgresql-doctrine](https://github.com/scrawler-labs/swoole-postgresql-doctrine) - A Doctrine DBAL Driver implementation on top of Swoole Coroutine PostgreSQL extension (1 year ago)
 - [scrawler-labs/swoole-cache](https://github.com/scrawler-labs/swoole-cache) - A High speed , PSR-16 compatible cache library based on swoole-tables (1 year ago)
 - [scrawler-labs/scrawler](https://github.com/scrawler-labs/scrawler) - RAD and Modular PHP Framework (1 year ago)
 
