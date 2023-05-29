@@ -12,7 +12,7 @@
 ### 🔭 Latest releases I've contributed to
 
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) ([v3.3.0](https://github.com/scrawler-labs/router/releases/tag/v3.3.0), 1 month ago) - An Fully Automatic RESTful PHP Router
-- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v2.1.0](https://github.com/scrawler-labs/arca-orm/releases/tag/v2.1.0), 1 month ago) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
+- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v2.1.0](https://github.com/scrawler-labs/arca-orm/releases/tag/v2.1.0), 2 months ago) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
 - [scrawler-labs/framework](https://github.com/scrawler-labs/framework) ([v2.4.2](https://github.com/scrawler-labs/framework/releases/tag/v2.4.2), 10 months ago) - Scrawler Framework Core
 - [scrawler-labs/swoole-cache](https://github.com/scrawler-labs/swoole-cache) ([v1.01](https://github.com/scrawler-labs/swoole-cache/releases/tag/v1.01), 1 year ago) - A High speed , PSR-16 compatible cache library based on swoole-tables
 - [scrawler-labs/scrawler](https://github.com/scrawler-labs/scrawler) ([V2.4.1](https://github.com/scrawler-labs/scrawler/releases/tag/V2.4.1), 1 year ago) - RAD and Modular PHP Framework
