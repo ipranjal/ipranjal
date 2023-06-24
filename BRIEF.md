@@ -3,7 +3,7 @@
 - [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (2 months ago)
 - [scrawler-labs/component-docs](https://github.com/scrawler-labs/component-docs) -  (2 months ago)
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) - An Fully Automatic RESTful PHP Router (2 months ago)
-- [scrawler-labs/.github](https://github.com/scrawler-labs/.github) -  (10 months ago)
+- [scrawler-labs/.github](https://github.com/scrawler-labs/.github) -  (11 months ago)
 - [scrawler-labs/framework](https://github.com/scrawler-labs/framework) - Scrawler Framework Core (11 months ago)
 
 ### 🔭 Latest releases I've contributed to
