@@ -22,7 +22,6 @@
 - [scrawler-labs/component-docs](https://github.com/scrawler-labs/component-docs) -  (3 months ago)
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) - An Fully Automatic RESTful PHP Router (3 months ago)
 - [scrawler-labs/.github](https://github.com/scrawler-labs/.github) -  (11 months ago)
-- [scrawler-labs/framework](https://github.com/scrawler-labs/framework) - Scrawler Framework Core (1 year ago)
 
 ### 🔭 Latest releases I've contributed to
 
