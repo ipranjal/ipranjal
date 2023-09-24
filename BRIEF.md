@@ -1,7 +1,7 @@
 ### 👷 Check out what I'm currently working on
 
 - [ipranjal/M23CSA018](https://github.com/ipranjal/M23CSA018) - M23CSA018- Virtualisation project (today)
-- [ipranjal/ml-digits](https://github.com/ipranjal/ml-digits) -  (today)
+- [ipranjal/ml-digits](https://github.com/ipranjal/ml-digits) -  (1 day ago)
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) - An Fully Automatic RESTful PHP Router (1 month ago)
 - [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (5 months ago)
 - [scrawler-labs/component-docs](https://github.com/scrawler-labs/component-docs) -  (5 months ago)
