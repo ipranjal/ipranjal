@@ -17,7 +17,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ipranjal/ml-digits](https://github.com/ipranjal/ml-digits) -  (2 days ago)
+- [ipranjal/ml-digits](https://github.com/ipranjal/ml-digits) -  (3 days ago)
 - [cloudsim-py/cloudsim](https://github.com/cloudsim-py/cloudsim) -  (1 week ago)
 - [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (1 month ago)
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) - An Fully Automatic RESTful PHP Router (2 months ago)
@@ -27,7 +27,7 @@
 ### 🔭 Latest releases I've contributed to
 
 - [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v2.1.1](https://github.com/scrawler-labs/arca-orm/releases/tag/v2.1.1), 2 months ago) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
-- [scrawler-labs/router](https://github.com/scrawler-labs/router) ([v4.0.0](https://github.com/scrawler-labs/router/releases/tag/v4.0.0), 3 months ago) - An Fully Automatic RESTful PHP Router
+- [scrawler-labs/router](https://github.com/scrawler-labs/router) ([v4.0.0](https://github.com/scrawler-labs/router/releases/tag/v4.0.0), 4 months ago) - An Fully Automatic RESTful PHP Router
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
