@@ -17,9 +17,9 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ipranjal/ml-digits](https://github.com/ipranjal/ml-digits) - Trying out Diffrent machine learnign techniques using hand written digits dataset (4 weeks ago)
-- [ipranjal/DSA](https://github.com/ipranjal/DSA) - DSA Practice questions and codes (4 weeks ago)
-- [ipranjal/memoryla](https://github.com/ipranjal/memoryla) - memoryla workspace (4 weeks ago)
+- [ipranjal/ml-digits](https://github.com/ipranjal/ml-digits) - Trying out Diffrent machine learnign techniques using hand written digits dataset (1 month ago)
+- [ipranjal/DSA](https://github.com/ipranjal/DSA) - DSA Practice questions and codes (1 month ago)
+- [ipranjal/memoryla](https://github.com/ipranjal/memoryla) - memoryla workspace (1 month ago)
 - [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (1 month ago)
 - [scrawler-labs/cloudsim](https://github.com/scrawler-labs/cloudsim) -  (1 month ago)
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) - An Fully Automatic RESTful PHP Router (3 months ago)
