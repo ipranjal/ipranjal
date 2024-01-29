@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranjal Pandey</h1>
+<h1 align="center">Hi 👋, I'm [Pranjal Pandey](https://ipranjal.com)</h1>
 <h3 align="center">I am an Open Source enthusiast,Fullstack/Fltter Developer, Devops Engineer and aspiring computer scientist from Indian Institute of Technology (IIT)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipranjal&label=Profile%20views&style=for-the-badge" alt="ipranjal" /> </p>
@@ -17,9 +17,10 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [ipranjal/devops-learning-kit](https://github.com/ipranjal/devops-learning-kit) - Sample scripts to help you in your devops journey contains real life sample of k8s,docker,terraform and github actions (today)
 - [ipranjal/ml-digits](https://github.com/ipranjal/ml-digits) - Trying out Diffrent machine learnign techniques using hand written digits dataset (1 month ago)
-- [ipranjal/DSA](https://github.com/ipranjal/DSA) - DSA Practice questions and codes (1 month ago)
 - [ipranjal/memoryla](https://github.com/ipranjal/memoryla) - memoryla workspace (1 month ago)
+- [ipranjal/DSA](https://github.com/ipranjal/DSA) - DSA Practice questions and codes (1 month ago)
 - [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (1 month ago)
 - [scrawler-labs/cloudsim](https://github.com/scrawler-labs/cloudsim) -  (2 months ago)
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) - An Fully Automatic RESTful PHP Router (4 months ago)
