@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranjal Pandey</h1>
+<h1 align="center">Hi 👋, I'm [Pranjal Pandey](https://ipranjal.com)</h1>
 <h3 align="center">I am an Open Source enthusiast,Fullstack/Fltter Developer, Devops Engineer and aspiring computer scientist from Indian Institute of Technology (IIT)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipranjal&label=Profile%20views&style=for-the-badge" alt="ipranjal" /> </p>
