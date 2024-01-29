@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on [Scrawler framework](https://github.com/scrawler-labs)
 - 💬 Ask me about **Flutter, PHP, Physics, Philosophy or Algorithms**
 - 📫 How to reach me **itspranjalpandey@gmail.com**
-- 📄 Know about my experiences [View Resume](https://docs.google.com/document/d/1-pBXTun2aywsjwFxPoTpFx__DeC2PMVOwd_Iqf08OrA/edit?usp=sharing)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1VwQCC2GF4FSgn3tN5Bz3eO8zLD7-McxM/view?usp=share_link)
 
 ### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
