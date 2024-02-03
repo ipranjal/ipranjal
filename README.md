@@ -17,7 +17,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ipranjal/devops-learning-kit](https://github.com/ipranjal/devops-learning-kit) - Sample scripts to help you in your devops journey contains real life sample of k8s,docker,terraform and github actions (4 days ago)
+- [ipranjal/devops-learning-kit](https://github.com/ipranjal/devops-learning-kit) - Sample scripts to help you in your devops journey contains real life sample of k8s,docker,terraform and github actions (5 days ago)
 - [ipranjal/ml-digits](https://github.com/ipranjal/ml-digits) - Trying out Diffrent machine learnign techniques using hand written digits dataset (1 month ago)
 - [ipranjal/memoryla](https://github.com/ipranjal/memoryla) - memoryla workspace (1 month ago)
 - [ipranjal/DSA](https://github.com/ipranjal/DSA) - DSA Practice questions and codes (1 month ago)
@@ -29,7 +29,7 @@
 ### 🔭 Latest releases I've contributed to
 
 - [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v2.1.1](https://github.com/scrawler-labs/arca-orm/releases/tag/v2.1.1), 4 months ago) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
-- [scrawler-labs/router](https://github.com/scrawler-labs/router) ([v4.0.0](https://github.com/scrawler-labs/router/releases/tag/v4.0.0), 5 months ago) - An Fully Automatic RESTful PHP Router
+- [scrawler-labs/router](https://github.com/scrawler-labs/router) ([v4.0.0](https://github.com/scrawler-labs/router/releases/tag/v4.0.0), 6 months ago) - An Fully Automatic RESTful PHP Router
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
