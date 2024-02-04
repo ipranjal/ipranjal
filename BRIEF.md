@@ -1,6 +1,6 @@
 ### 👷 Check out what I'm currently working on
 
-- [ipranjal/devops-learning-kit](https://github.com/ipranjal/devops-learning-kit) - Sample scripts to help you in your devops journey contains real life sample of k8s,docker,terraform and github actions (5 days ago)
+- [ipranjal/devops-learning-kit](https://github.com/ipranjal/devops-learning-kit) - Sample scripts to help you in your devops journey contains real life sample of k8s,docker,terraform and github actions (6 days ago)
 - [ipranjal/ml-digits](https://github.com/ipranjal/ml-digits) - Trying out Diffrent machine learnign techniques using hand written digits dataset (1 month ago)
 - [ipranjal/memoryla](https://github.com/ipranjal/memoryla) - memoryla workspace (1 month ago)
 - [ipranjal/DSA](https://github.com/ipranjal/DSA) - DSA Practice questions and codes (1 month ago)
