@@ -28,7 +28,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v2.1.1](https://github.com/scrawler-labs/arca-orm/releases/tag/v2.1.1), 9 months ago) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
+- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v3.0.0-beta1](https://github.com/scrawler-labs/arca-orm/releases/tag/v3.0.0-beta1), today) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) ([v4.0.0](https://github.com/scrawler-labs/router/releases/tag/v4.0.0), 11 months ago) - An Fully Automatic RESTful PHP Router
 
 <h3 align="left">Connect with me:</h3>
