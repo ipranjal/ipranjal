@@ -5,8 +5,8 @@
 - [scrawler-labs/component-docs](https://github.com/scrawler-labs/component-docs) -  (1 month ago)
 - [ipranjal/ml-digits](https://github.com/ipranjal/ml-digits) - Trying out Diffrent machine learnign techniques using hand written digits dataset (2 months ago)
 - [ipranjal/devops-learning-kit](https://github.com/ipranjal/devops-learning-kit) - Sample scripts to help you in your devops journey contains real life sample of k8s,docker,terraform and github actions (6 months ago)
-- [ipranjal/DSA](https://github.com/ipranjal/DSA) - DSA Practice questions and codes (7 months ago)
-- [ipranjal/memoryla](https://github.com/ipranjal/memoryla) - memoryla workspace (7 months ago)
+- [ipranjal/DSA](https://github.com/ipranjal/DSA) - DSA Practice questions and codes (8 months ago)
+- [ipranjal/memoryla](https://github.com/ipranjal/memoryla) - memoryla workspace (8 months ago)
 - [scrawler-labs/cloudsim](https://github.com/scrawler-labs/cloudsim) -  (8 months ago)
 
 ### 🔭 Latest releases I've contributed to
