@@ -1,6 +1,6 @@
 ### 👷 Check out what I'm currently working on
 
-- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (today)
+- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (1 day ago)
 - [scrawler-labs/component-docs](https://github.com/scrawler-labs/component-docs) -  (2 months ago)
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) - An Fully Automatic RESTful PHP Router (2 months ago)
 - [ipranjal/ml-digits](https://github.com/ipranjal/ml-digits) - Trying out Diffrent machine learnign techniques using hand written digits dataset (3 months ago)
@@ -11,7 +11,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v3.0.0](https://github.com/scrawler-labs/arca-orm/releases/tag/v3.0.0), today) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
+- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v3.0.0](https://github.com/scrawler-labs/arca-orm/releases/tag/v3.0.0), 1 day ago) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) ([v4.0.0](https://github.com/scrawler-labs/router/releases/tag/v4.0.0), 1 year ago) - An Fully Automatic RESTful PHP Router
 
 For more details visit [www.github.com/ipranjal](www.github.com/ipranjal)
