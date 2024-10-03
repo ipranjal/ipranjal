@@ -13,8 +13,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [scrawler-labs/app](https://github.com/scrawler-labs/app) ([v2.0.0](https://github.com/scrawler-labs/app/releases/tag/v2.0.0), today) - 
 - [scrawler-labs/exception](https://github.com/scrawler-labs/exception) ([v1.1.0](https://github.com/scrawler-labs/exception/releases/tag/v1.1.0), 1 day ago) - Whoops integration for scrawler framwork
-- [scrawler-labs/app](https://github.com/scrawler-labs/app) ([v1.3.1](https://github.com/scrawler-labs/app/releases/tag/v1.3.1), 1 day ago) - 
 - [scrawler-labs/http](https://github.com/scrawler-labs/http) ([v1.1.4](https://github.com/scrawler-labs/http/releases/tag/v1.1.4), 3 days ago) - 
 - [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v3.1.1](https://github.com/scrawler-labs/arca-orm/releases/tag/v3.1.1), 3 days ago) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
 - [scrawler-labs/storage](https://github.com/scrawler-labs/storage) ([v1.1.1](https://github.com/scrawler-labs/storage/releases/tag/v1.1.1), 4 days ago) - storage system for scrawler framework
