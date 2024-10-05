@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v3.2.0](https://github.com/scrawler-labs/arca-orm/releases/tag/v3.2.0), today) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
+- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v3.3.0](https://github.com/scrawler-labs/arca-orm/releases/tag/v3.3.0), today) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
 - [scrawler-labs/app](https://github.com/scrawler-labs/app) ([v2.0.1](https://github.com/scrawler-labs/app/releases/tag/v2.0.1), today) - 
 - [scrawler-labs/exception](https://github.com/scrawler-labs/exception) ([v2.0.0](https://github.com/scrawler-labs/exception/releases/tag/v2.0.0), 1 day ago) - Whoops integration for scrawler framwork
 - [scrawler-labs/http](https://github.com/scrawler-labs/http) ([v1.1.4](https://github.com/scrawler-labs/http/releases/tag/v1.1.4), 5 days ago) - 
