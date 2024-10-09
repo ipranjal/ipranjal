@@ -17,7 +17,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (1 day ago)
+- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (today)
 - [scrawler-labs/database](https://github.com/scrawler-labs/database) - Arca ORM integration bridge for scrawler router (3 days ago)
 - [scrawler-labs/app](https://github.com/scrawler-labs/app) - Create simple but powerful web apps and APIs quickly, with minumum lines of code (3 days ago)
 - [scrawler-labs/.github](https://github.com/scrawler-labs/.github) -  (3 days ago)
