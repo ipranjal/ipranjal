@@ -17,21 +17,21 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (1 day ago)
+- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (today)
 - [scrawler-labs/database](https://github.com/scrawler-labs/database) - Arca ORM integration bridge for scrawler router (5 days ago)
 - [scrawler-labs/app](https://github.com/scrawler-labs/app) - Create simple but powerful web apps and APIs quickly, with minumum lines of code (5 days ago)
-- [scrawler-labs/.github](https://github.com/scrawler-labs/.github) -  (5 days ago)
 - [scrawler-labs/http](https://github.com/scrawler-labs/http) - Scrawler Http Foundation is a wrapper around Symphony Http Foundation with added features (5 days ago)
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) - An Fully Automatic RESTful PHP Router (5 days ago)
+- [scrawler-labs/.github](https://github.com/scrawler-labs/.github) -  (5 days ago)
 - [scrawler-labs/exception](https://github.com/scrawler-labs/exception) - Whoops integration for scrawler framwork (1 week ago)
+- [ipranjal/portfolio-builder](https://github.com/ipranjal/portfolio-builder) - SDE mini project (1 week ago)
 - [ipranjal/autonomous](https://github.com/ipranjal/autonomous) - autonomous (1 week ago)
 - [scrawler-labs/storage](https://github.com/scrawler-labs/storage) - storage system for scrawler framework (1 week ago)
-- [ipranjal/portfolio-builder](https://github.com/ipranjal/portfolio-builder) - SDE mini project (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
+- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v4.0.0](https://github.com/scrawler-labs/arca-orm/releases/tag/v4.0.0), today) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) ([v4.2.0](https://github.com/scrawler-labs/router/releases/tag/v4.2.0), 5 days ago) - An Fully Automatic RESTful PHP Router
-- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v3.4.0](https://github.com/scrawler-labs/arca-orm/releases/tag/v3.4.0), 5 days ago) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
 - [scrawler-labs/http](https://github.com/scrawler-labs/http) ([v2.0.1](https://github.com/scrawler-labs/http/releases/tag/v2.0.1), 6 days ago) - Scrawler Http Foundation is a wrapper around Symphony Http Foundation with added features
 - [scrawler-labs/app](https://github.com/scrawler-labs/app) ([v2.0.2](https://github.com/scrawler-labs/app/releases/tag/v2.0.2), 6 days ago) - Create simple but powerful web apps and APIs quickly, with minumum lines of code
 - [scrawler-labs/exception](https://github.com/scrawler-labs/exception) ([v2.0.0](https://github.com/scrawler-labs/exception/releases/tag/v2.0.0), 1 week ago) - Whoops integration for scrawler framwork
