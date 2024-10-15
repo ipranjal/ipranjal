@@ -18,11 +18,11 @@
 ### 👷 Check out what I'm currently working on
 
 - [scrawler-labs/storage](https://github.com/scrawler-labs/storage) - Wrapper around Flysystem for scrawler storage system (today)
-- [scrawler-labs/app](https://github.com/scrawler-labs/app) - Create simple but powerful web apps and APIs quickly, with minumum lines of code (today)
-- [scrawler-labs/exception](https://github.com/scrawler-labs/exception) - Whoops integration for scrawler framwork (today)
-- [scrawler-labs/http](https://github.com/scrawler-labs/http) - Scrawler Http Foundation is a wrapper around Symphony Http Foundation with added features (1 day ago)
-- [scrawler-labs/database](https://github.com/scrawler-labs/database) - Arca ORM integration bridge for scrawler router (3 days ago)
-- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (3 days ago)
+- [scrawler-labs/app](https://github.com/scrawler-labs/app) - Create simple but powerful web apps and APIs quickly, with minumum lines of code (1 day ago)
+- [scrawler-labs/exception](https://github.com/scrawler-labs/exception) - Whoops integration for scrawler framwork (1 day ago)
+- [scrawler-labs/http](https://github.com/scrawler-labs/http) - Scrawler Http Foundation is a wrapper around Symphony Http Foundation with added features (2 days ago)
+- [scrawler-labs/database](https://github.com/scrawler-labs/database) - Arca ORM integration bridge for scrawler router (4 days ago)
+- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (4 days ago)
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) - An Fully Automatic RESTful PHP Router (1 week ago)
 - [scrawler-labs/.github](https://github.com/scrawler-labs/.github) -  (1 week ago)
 - [ipranjal/autonomous](https://github.com/ipranjal/autonomous) - autonomous (2 weeks ago)
@@ -30,11 +30,11 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [scrawler-labs/exception](https://github.com/scrawler-labs/exception) ([v2.1.1](https://github.com/scrawler-labs/exception/releases/tag/v2.1.1), today) - Whoops integration for scrawler framwork
-- [scrawler-labs/app](https://github.com/scrawler-labs/app) ([v2.1.2](https://github.com/scrawler-labs/app/releases/tag/v2.1.2), today) - Create simple but powerful web apps and APIs quickly, with minumum lines of code
-- [scrawler-labs/http](https://github.com/scrawler-labs/http) ([v2.0.2](https://github.com/scrawler-labs/http/releases/tag/v2.0.2), 1 day ago) - Scrawler Http Foundation is a wrapper around Symphony Http Foundation with added features
-- [scrawler-labs/database](https://github.com/scrawler-labs/database) ([v2.0.0](https://github.com/scrawler-labs/database/releases/tag/v2.0.0), 3 days ago) - Arca ORM integration bridge for scrawler router
-- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v4.0.0](https://github.com/scrawler-labs/arca-orm/releases/tag/v4.0.0), 3 days ago) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
+- [scrawler-labs/exception](https://github.com/scrawler-labs/exception) ([v2.1.1](https://github.com/scrawler-labs/exception/releases/tag/v2.1.1), 1 day ago) - Whoops integration for scrawler framwork
+- [scrawler-labs/app](https://github.com/scrawler-labs/app) ([v2.1.2](https://github.com/scrawler-labs/app/releases/tag/v2.1.2), 1 day ago) - Create simple but powerful web apps and APIs quickly, with minumum lines of code
+- [scrawler-labs/http](https://github.com/scrawler-labs/http) ([v2.0.2](https://github.com/scrawler-labs/http/releases/tag/v2.0.2), 2 days ago) - Scrawler Http Foundation is a wrapper around Symphony Http Foundation with added features
+- [scrawler-labs/database](https://github.com/scrawler-labs/database) ([v2.0.0](https://github.com/scrawler-labs/database/releases/tag/v2.0.0), 4 days ago) - Arca ORM integration bridge for scrawler router
+- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v4.0.0](https://github.com/scrawler-labs/arca-orm/releases/tag/v4.0.0), 4 days ago) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) ([v4.2.0](https://github.com/scrawler-labs/router/releases/tag/v4.2.0), 1 week ago) - An Fully Automatic RESTful PHP Router
 - [scrawler-labs/storage](https://github.com/scrawler-labs/storage) ([v1.1.1](https://github.com/scrawler-labs/storage/releases/tag/v1.1.1), 2 weeks ago) - Wrapper around Flysystem for scrawler storage system
 - [scrawler-labs/mvc](https://github.com/scrawler-labs/mvc) ([v1.0.3](https://github.com/scrawler-labs/mvc/releases/tag/v1.0.3), 2 weeks ago) - Template to use Scrawler as MVC framework
