@@ -30,13 +30,13 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [scrawler-labs/storage](https://github.com/scrawler-labs/storage) ([v2.0.0](https://github.com/scrawler-labs/storage/releases/tag/v2.0.0), today) - Wrapper around Flysystem for scrawler storage system
 - [scrawler-labs/exception](https://github.com/scrawler-labs/exception) ([v2.1.1](https://github.com/scrawler-labs/exception/releases/tag/v2.1.1), 3 days ago) - Whoops integration for scrawler framwork
 - [scrawler-labs/app](https://github.com/scrawler-labs/app) ([v2.1.2](https://github.com/scrawler-labs/app/releases/tag/v2.1.2), 3 days ago) - Create simple but powerful web apps and APIs quickly, with minumum lines of code
 - [scrawler-labs/http](https://github.com/scrawler-labs/http) ([v2.0.2](https://github.com/scrawler-labs/http/releases/tag/v2.0.2), 4 days ago) - Scrawler Http Foundation is a wrapper around Symphony Http Foundation with added features
 - [scrawler-labs/database](https://github.com/scrawler-labs/database) ([v2.0.0](https://github.com/scrawler-labs/database/releases/tag/v2.0.0), 6 days ago) - Arca ORM integration bridge for scrawler router
 - [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v4.0.0](https://github.com/scrawler-labs/arca-orm/releases/tag/v4.0.0), 6 days ago) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) ([v4.2.0](https://github.com/scrawler-labs/router/releases/tag/v4.2.0), 1 week ago) - An Fully Automatic RESTful PHP Router
-- [scrawler-labs/storage](https://github.com/scrawler-labs/storage) ([v1.1.1](https://github.com/scrawler-labs/storage/releases/tag/v1.1.1), 2 weeks ago) - Wrapper around Flysystem for scrawler storage system
 - [scrawler-labs/mvc](https://github.com/scrawler-labs/mvc) ([v1.0.3](https://github.com/scrawler-labs/mvc/releases/tag/v1.0.3), 2 weeks ago) - Template to use Scrawler as MVC framework
 - [scrawler-labs/blade](https://github.com/scrawler-labs/blade) ([v1.1.0](https://github.com/scrawler-labs/blade/releases/tag/v1.1.0), 3 weeks ago) - Blade Integration for Scrawler, Based on BladeOne
 
