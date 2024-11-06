@@ -1,6 +1,6 @@
 ### 👷 Check out what I'm currently working on
 
-- [scrawler-labs/mvc](https://github.com/scrawler-labs/mvc) - Template to use Scrawler as MVC framework (today)
+- [scrawler-labs/mvc](https://github.com/scrawler-labs/mvc) - Template to use Scrawler as MVC framework (1 day ago)
 - [scrawler-labs/scrawler](https://github.com/scrawler-labs/scrawler) - Create simple but powerful web apps and APIs quickly, with minimum lines of code (1 week ago)
 - [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (2 weeks ago)
 - [scrawler-labs/storage](https://github.com/scrawler-labs/storage) - A Flysystem wrapper with added file validation and security for efficient, safe file management. (2 weeks ago)
@@ -13,7 +13,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [scrawler-labs/mvc](https://github.com/scrawler-labs/mvc) ([v2.1.1](https://github.com/scrawler-labs/mvc/releases/tag/v2.1.1), today) - Template to use Scrawler as MVC framework
+- [scrawler-labs/mvc](https://github.com/scrawler-labs/mvc) ([v2.1.1](https://github.com/scrawler-labs/mvc/releases/tag/v2.1.1), 1 day ago) - Template to use Scrawler as MVC framework
 - [scrawler-labs/scrawler](https://github.com/scrawler-labs/scrawler) ([v2.1.4](https://github.com/scrawler-labs/scrawler/releases/tag/v2.1.4), 1 week ago) - Create simple but powerful web apps and APIs quickly, with minimum lines of code
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) ([v4.2.2](https://github.com/scrawler-labs/router/releases/tag/v4.2.2), 1 week ago) - An Fully Automatic RESTful PHP Router
 - [scrawler-labs/storage](https://github.com/scrawler-labs/storage) ([v2.1.0](https://github.com/scrawler-labs/storage/releases/tag/v2.1.0), 2 weeks ago) - A Flysystem wrapper with added file validation and security for efficient, safe file management.
