@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [EFTEC/BladeOne](https://github.com/EFTEC/BladeOne) ([4.17.1](https://github.com/EFTEC/BladeOne/releases/tag/4.17.1), 3 days ago) - The standalone version Blade Template Engine without Laravel in a single php file and without dependencies
+- [EFTEC/BladeOne](https://github.com/EFTEC/BladeOne) ([4.17.1](https://github.com/EFTEC/BladeOne/releases/tag/4.17.1), 4 days ago) - The standalone version Blade Template Engine without Laravel in a single php file and without dependencies
 - [scrawler-labs/http](https://github.com/scrawler-labs/http) ([v2.1.1](https://github.com/scrawler-labs/http/releases/tag/v2.1.1), 1 month ago) - Scrawler Http Foundation is a wrapper around Symphony Http Foundation with added features
 - [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v4.0.1](https://github.com/scrawler-labs/arca-orm/releases/tag/v4.0.1), 1 month ago) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
 - [scrawler-labs/mvc](https://github.com/scrawler-labs/mvc) ([v2.1.1](https://github.com/scrawler-labs/mvc/releases/tag/v2.1.1), 1 month ago) - Template to use Scrawler as MVC framework
