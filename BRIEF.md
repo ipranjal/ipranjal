@@ -2,7 +2,7 @@
 
 - [scrawler-labs/http](https://github.com/scrawler-labs/http) - Scrawler Http Foundation is a wrapper around Symphony Http Foundation with added features (1 month ago)
 - [ipranjal/dockerize](https://github.com/ipranjal/dockerize) -  (1 month ago)
-- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (1 month ago)
+- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (2 months ago)
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) - An Fully Automatic RESTful PHP Router (2 months ago)
 - [scrawler-labs/mvc](https://github.com/scrawler-labs/mvc) - Template to use Scrawler as MVC framework (2 months ago)
 - [scrawler-labs/scrawler](https://github.com/scrawler-labs/scrawler) - Create simple but powerful web apps and APIs quickly, with minimum lines of code (2 months ago)
@@ -13,7 +13,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [EFTEC/BladeOne](https://github.com/EFTEC/BladeOne) ([4.17.1](https://github.com/EFTEC/BladeOne/releases/tag/4.17.1), 6 days ago) - The standalone version Blade Template Engine without Laravel in a single php file and without dependencies
+- [EFTEC/BladeOne](https://github.com/EFTEC/BladeOne) ([4.17.1](https://github.com/EFTEC/BladeOne/releases/tag/4.17.1), 1 week ago) - The standalone version Blade Template Engine without Laravel in a single php file and without dependencies
 - [scrawler-labs/http](https://github.com/scrawler-labs/http) ([v2.1.1](https://github.com/scrawler-labs/http/releases/tag/v2.1.1), 1 month ago) - Scrawler Http Foundation is a wrapper around Symphony Http Foundation with added features
 - [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v4.0.1](https://github.com/scrawler-labs/arca-orm/releases/tag/v4.0.1), 1 month ago) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
 - [scrawler-labs/mvc](https://github.com/scrawler-labs/mvc) ([v2.1.1](https://github.com/scrawler-labs/mvc/releases/tag/v2.1.1), 2 months ago) - Template to use Scrawler as MVC framework
