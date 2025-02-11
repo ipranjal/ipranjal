@@ -38,7 +38,7 @@
 - [scrawler-labs/router](https://github.com/scrawler-labs/router) ([v4.2.2](https://github.com/scrawler-labs/router/releases/tag/v4.2.2), 3 months ago) - An Fully Automatic RESTful PHP Router
 - [scrawler-labs/storage](https://github.com/scrawler-labs/storage) ([v2.1.0](https://github.com/scrawler-labs/storage/releases/tag/v2.1.0), 3 months ago) - A Flysystem wrapper with added file validation and security for efficient, safe file management.
 - [scrawler-labs/blade](https://github.com/scrawler-labs/blade) ([v2.0.1](https://github.com/scrawler-labs/blade/releases/tag/v2.0.1), 3 months ago) - Blade Integration for Scrawler, Based on BladeOne
-- [scrawler-labs/exception](https://github.com/scrawler-labs/exception) ([v2.1.1](https://github.com/scrawler-labs/exception/releases/tag/v2.1.1), 3 months ago) - Whoops integration for scrawler framwork
+- [scrawler-labs/exception](https://github.com/scrawler-labs/exception) ([v2.1.1](https://github.com/scrawler-labs/exception/releases/tag/v2.1.1), 4 months ago) - Whoops integration for scrawler framwork
 - [scrawler-labs/database](https://github.com/scrawler-labs/database) ([v2.0.0](https://github.com/scrawler-labs/database/releases/tag/v2.0.0), 4 months ago) - Arca ORM integration bridge for scrawler router
 
 <h3 align="left">Connect with me:</h3>
