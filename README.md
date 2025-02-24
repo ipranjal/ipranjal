@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [EFTEC/BladeOne](https://github.com/EFTEC/BladeOne) ([4.18](https://github.com/EFTEC/BladeOne/releases/tag/4.18), 1 day ago) - The standalone version Blade Template Engine without Laravel in a single php file and without dependencies
+- [EFTEC/BladeOne](https://github.com/EFTEC/BladeOne) ([4.18](https://github.com/EFTEC/BladeOne/releases/tag/4.18), 2 days ago) - The standalone version Blade Template Engine without Laravel in a single php file and without dependencies
 - [scrawler-labs/csrf](https://github.com/scrawler-labs/csrf) ([v1.3.0](https://github.com/scrawler-labs/csrf/releases/tag/v1.3.0), 1 week ago) - csrf protection for scrawler framework
 - [scrawler-labs/scrawler](https://github.com/scrawler-labs/scrawler) ([v2.3.3](https://github.com/scrawler-labs/scrawler/releases/tag/v2.3.3), 1 week ago) - Create simple but powerful web apps and APIs quickly, with minimum lines of code
 - [scrawler-labs/http](https://github.com/scrawler-labs/http) ([v2.2.0](https://github.com/scrawler-labs/http/releases/tag/v2.2.0), 1 week ago) - Scrawler Http Foundation is a wrapper around Symphony Http Foundation with added features
