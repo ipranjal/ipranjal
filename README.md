@@ -17,8 +17,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [scrawler-labs/scrawler](https://github.com/scrawler-labs/scrawler) - Create simple but powerful web apps and APIs quickly, with minimum lines of code (1 week ago)
-- [scrawler-labs/csrf](https://github.com/scrawler-labs/csrf) - csrf protection for scrawler framework (1 week ago)
+- [scrawler-labs/scrawler](https://github.com/scrawler-labs/scrawler) - Create simple but powerful web apps and APIs quickly, with minimum lines of code (2 weeks ago)
+- [scrawler-labs/csrf](https://github.com/scrawler-labs/csrf) - csrf protection for scrawler framework (2 weeks ago)
 - [scrawler-labs/http](https://github.com/scrawler-labs/http) - Scrawler Http Foundation is a wrapper around Symphony Http Foundation with added features (2 weeks ago)
 - [scrawler-labs/storage](https://github.com/scrawler-labs/storage) - A Flysystem wrapper with added file validation and security for efficient, safe file management. (2 weeks ago)
 - [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (2 weeks ago)
@@ -31,8 +31,8 @@
 ### 🔭 Latest releases I've contributed to
 
 - [EFTEC/BladeOne](https://github.com/EFTEC/BladeOne) ([4.18](https://github.com/EFTEC/BladeOne/releases/tag/4.18), 1 week ago) - The standalone version Blade Template Engine without Laravel in a single php file and without dependencies
-- [scrawler-labs/csrf](https://github.com/scrawler-labs/csrf) ([v1.3.0](https://github.com/scrawler-labs/csrf/releases/tag/v1.3.0), 1 week ago) - csrf protection for scrawler framework
-- [scrawler-labs/scrawler](https://github.com/scrawler-labs/scrawler) ([v2.3.3](https://github.com/scrawler-labs/scrawler/releases/tag/v2.3.3), 1 week ago) - Create simple but powerful web apps and APIs quickly, with minimum lines of code
+- [scrawler-labs/csrf](https://github.com/scrawler-labs/csrf) ([v1.3.0](https://github.com/scrawler-labs/csrf/releases/tag/v1.3.0), 2 weeks ago) - csrf protection for scrawler framework
+- [scrawler-labs/scrawler](https://github.com/scrawler-labs/scrawler) ([v2.3.3](https://github.com/scrawler-labs/scrawler/releases/tag/v2.3.3), 2 weeks ago) - Create simple but powerful web apps and APIs quickly, with minimum lines of code
 - [scrawler-labs/http](https://github.com/scrawler-labs/http) ([v2.2.0](https://github.com/scrawler-labs/http/releases/tag/v2.2.0), 2 weeks ago) - Scrawler Http Foundation is a wrapper around Symphony Http Foundation with added features
 - [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v4.0.2](https://github.com/scrawler-labs/arca-orm/releases/tag/v4.0.2), 2 weeks ago) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
 - [scrawler-labs/database](https://github.com/scrawler-labs/database) ([v2.0.1](https://github.com/scrawler-labs/database/releases/tag/v2.0.1), 2 weeks ago) - Arca ORM integration bridge for scrawler router
