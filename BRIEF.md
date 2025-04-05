@@ -7,7 +7,7 @@
 - [scrawler-labs/storage](https://github.com/scrawler-labs/storage) - A Flysystem wrapper with added file validation and security for efficient, safe file management. (1 month ago)
 - [scrawler-labs/database](https://github.com/scrawler-labs/database) - Arca ORM integration bridge for scrawler router (1 month ago)
 - [ipranjal/dockerize](https://github.com/ipranjal/dockerize) -  (4 months ago)
-- [scrawler-labs/router](https://github.com/scrawler-labs/router) - An Fully Automatic RESTful PHP Router (4 months ago)
+- [scrawler-labs/router](https://github.com/scrawler-labs/router) - An Fully Automatic RESTful PHP Router (5 months ago)
 - [scrawler-labs/mvc](https://github.com/scrawler-labs/mvc) - Template to use Scrawler as MVC framework (5 months ago)
 - [scrawler-labs/.github](https://github.com/scrawler-labs/.github) -  (5 months ago)
 
