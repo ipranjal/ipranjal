@@ -23,7 +23,7 @@
 - [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (2 months ago)
 - [scrawler-labs/http](https://github.com/scrawler-labs/http) - Scrawler Http Foundation is a wrapper around Symphony Http Foundation with added features (2 months ago)
 - [scrawler-labs/database](https://github.com/scrawler-labs/database) - Arca ORM integration bridge for scrawler router (2 months ago)
-- [scrawler-labs/csrf](https://github.com/scrawler-labs/csrf) - csrf protection for scrawler framework (3 months ago)
+- [scrawler-labs/csrf](https://github.com/scrawler-labs/csrf) - csrf protection for scrawler framework (4 months ago)
 - [scrawler-labs/storage](https://github.com/scrawler-labs/storage) - A Flysystem wrapper with added file validation and security for efficient, safe file management. (4 months ago)
 - [ipranjal/dockerize](https://github.com/ipranjal/dockerize) -  (7 months ago)
 - [scrawler-labs/mvc](https://github.com/scrawler-labs/mvc) - Template to use Scrawler as MVC framework (7 months ago)
@@ -36,7 +36,7 @@
 - [scrawler-labs/database](https://github.com/scrawler-labs/database) ([v2.1.0](https://github.com/scrawler-labs/database/releases/tag/v2.1.0), 2 months ago) - Arca ORM integration bridge for scrawler router
 - [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v4.2.0](https://github.com/scrawler-labs/arca-orm/releases/tag/v4.2.0), 2 months ago) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
 - [EFTEC/BladeOne](https://github.com/EFTEC/BladeOne) ([4.18](https://github.com/EFTEC/BladeOne/releases/tag/4.18), 3 months ago) - The standalone version Blade Template Engine without Laravel in a single php file and without dependencies
-- [scrawler-labs/csrf](https://github.com/scrawler-labs/csrf) ([v1.3.0](https://github.com/scrawler-labs/csrf/releases/tag/v1.3.0), 3 months ago) - csrf protection for scrawler framework
+- [scrawler-labs/csrf](https://github.com/scrawler-labs/csrf) ([v1.3.0](https://github.com/scrawler-labs/csrf/releases/tag/v1.3.0), 4 months ago) - csrf protection for scrawler framework
 - [scrawler-labs/mvc](https://github.com/scrawler-labs/mvc) ([v2.1.1](https://github.com/scrawler-labs/mvc/releases/tag/v2.1.1), 7 months ago) - Template to use Scrawler as MVC framework
 - [scrawler-labs/storage](https://github.com/scrawler-labs/storage) ([v2.1.0](https://github.com/scrawler-labs/storage/releases/tag/v2.1.0), 8 months ago) - A Flysystem wrapper with added file validation and security for efficient, safe file management.
 - [scrawler-labs/blade](https://github.com/scrawler-labs/blade) ([v2.0.1](https://github.com/scrawler-labs/blade/releases/tag/v2.0.1), 8 months ago) - Blade Integration for Scrawler, Based on BladeOne
