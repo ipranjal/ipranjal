@@ -17,7 +17,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (4 days ago)
+- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (5 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
