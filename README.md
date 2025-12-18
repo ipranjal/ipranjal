@@ -1,67 +1,67 @@
-<h1 align="center">Hi 👋, I'm Pranjal Pandey</h1>
-<h3 align="center">I am an Open Source enthusiast,Fullstack/Fltter Developer, Devops Engineer and aspiring computer scientist from Indian Institute of Technology (IIT)</h3>
+<h1 align="center">Hi, I’m Pranjal Pandey</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ipranjal&label=Profile%20views&style=for-the-badge" alt="ipranjal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ipranjal&theme=darkhub" alt="ipranjal" width="100%"/></a> </p>
-
-<p align="left"> <a href="https://twitter.com/_pranjalpandey_" target="blank"><img src="https://img.shields.io/twitter/follow/_pranjalpandey_?logo=twitter&style=for-the-badge" alt="_pranjalpandey_" /></a> </p>
-
-- 🔭 I’m Indian Institute of Technology (IIT) alumni (M.Tech AI)
-- 🔭 I’m currently working on [Scrawler framework](https://github.com/scrawler-labs), [Coro](https://ordercoro.com) 
-- 🌱 I’m currently learning **Artificial Intelligence , Machine Learning and DSA**
-- 👯 I’m looking to collaborate on [Scrawler framework](https://github.com/scrawler-labs)
-- 💬 Ask me about **Flutter, PHP, Physics, Philosophy or Algorithms**
-- 📫 How to reach me **itspranjalpandey@gmail.com**
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1VwQCC2GF4FSgn3tN5Bz3eO8zLD7-McxM/view?usp=share_link)
-
-### 👷 Check out what I'm currently working on
-
-- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly. (2 months ago)
-
-### 🔭 Latest releases I've contributed to
-
-- [scrawler-labs/arca-orm](https://github.com/scrawler-labs/arca-orm) ([v4.2.0](https://github.com/scrawler-labs/arca-orm/releases/tag/v4.2.0), 8 months ago) -  Low code , Zero Configuration ORM that creates models, config, database and tables on the fly.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ipranjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ipranjal" height="30" width="40" /></a>
-<a href="https://twitter.com/_pranjalpandey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_pranjalpandey_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/its-pranjalpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="its-pranjalpandey" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17885414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17885414" height="30" width="40" /></a>
-<a href="https://instagram.com/its.pranjalpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.pranjalpandey" height="30" width="40" /></a>
-<a href="https://www.behance.net/pranjalpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="pranjalpandey" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/physcocode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="physcocode" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@physcocode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@physcocode" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/physcocode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="physcocode" height="30" width="40" /></a>
+<p align="center">
+Systems Architect • Engineering Leader • Open Source Maintainer
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+I build systems that prioritize correctness, clarity, and long-term maintainability.
+</p>
 
-<h5 align="left">Current Stack:</h5>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ipranjal&label=Profile%20views&style=for-the-badge" alt="profile views" />
+</p>
 
-![My Skills](https://skillicons.dev/icons?i=flutter,nodejs,py,c,php,react,html,css)
+---
 
-<h5 align="left">Frontend Tech Stack:</h5>
+### About
 
-![My Skills](https://skillicons.dev/icons?i=flutter,react,vue,angular,svelte,ts)
+I’m a systems architect and engineering leader with experience across founding roles, enterprise platforms, and open-source development. My work focuses on **system design, execution strategy, and practical automation**, with a strong bias toward decisions that age well.
 
-<h5 align="left">Backend Tech Stack:</h5>
+I’m an **IIT Jodhpur alumnus (M.Tech in Artificial Intelligence)** and currently pursuing a **PhD in Theoretical Computer Science**. This background shapes how I think about correctness, complexity, and long-term trade-offs—but my work remains deeply hands-on and production-oriented.
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,laravel,fastapi,flask,firebase,py,php)
+I care less about frameworks and more about:
+- reducing unnecessary complexity  
+- designing clear system boundaries  
+- building abstractions that survive real delivery pressure  
 
-<h5 align="left">Database Stack:</h5>
+---
 
-![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,redis)
+### Open Source & Scrawler-labs
 
-<h5 align="left">Tools/Container Stack:</h5>
+**Scrawler-labs**  
+Scrawler-labs is an open-source initiative focused on building **opinionated backend frameworks and tools** that reduce boilerplate, automate repetitive work, and encourage cleaner system design under real-world constraints.
 
-![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,git,gitlab,github,linux,postman,vscode)
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ipranjal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ipranjal" /></a></p><br><br><br>
+https://github.com/scrawler-labs
 
-<h3 align="left">My Github Stats:</h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ipranjal&show_icons=true&theme=dark&locale=en" alt="ipranjal"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ipranjal&theme=dark" alt="ipranjal"/>
+**Scrawler**  
+An open-source framework designed to **reduce backend code complexity** by automating common infrastructure and application patterns, enabling faster development without compromising correctness, extensibility, or long-term maintainability.
 
+I approach open source the same way I approach production systems: practical, constrained, and shaped by real usage rather than idealized abstractions.
 
+---
+
+### Writing & Architectural Notes
+
+I write about system architecture, applied AI, and engineering trade-offs encountered while building and maintaining real systems.
+
+**Website:** https://ipranjal.com 
+
+---
+
+### How I Use GitHub
+
+I use GitHub primarily to build and maintain systems, frameworks, and tools that emerge from real work. Some repositories represent finished ideas, others capture experiments or intermediate thinking. 
+
+---
+
+### Connect
+
+- LinkedIn: https://linkedin.com/in/its-pranjalpandey  
+- Email: hello@ipranjal.com  
+
+---
+
+<sub>
+This profile is intentionally minimal. If something here feels opinionated, it probably is.
+</sub>
